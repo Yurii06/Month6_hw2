@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+        <string name="label_main">Task Manager</string>
+        <string name="label_add_task">Task</string>
+        <string name="label_update_task">Task Update</string>
+    <string name="home">Home</string>
+    <string name="Создать">Создать</string>
+    <string name="заголовок">Заголовок</string>
+    <string name="описание">Описание</string>
+    <string name="сохранить">Сохранить</string>
+    <string name="Все_задачи">Все задачи</string>
+    <string name="Невыполненные">Невыполненные</string>
+    <string name="Выполненные">Выполненные</string>
+    <string name="хотите_удалить">Вы хотите удалить задачу?</string>
+    <string name="данные_удалены">Данные будут удалены</string>
+    <string name="да">Да</string>
+    <string name="отмена">Отмена</string>
+</resources>
